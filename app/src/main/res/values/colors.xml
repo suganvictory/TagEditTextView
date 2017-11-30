@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0080fb</color>
+    <color name="colorPrimaryDark">#0080fb</color>
+    <color name="colorAccent">#0080fb</color>
+    <color name="slightgrey">#e5e5e5</color>
+    <color name="Activite">#333333</color>
+    <color name="reginactive">#EAF0FC</color>
+    <color name="Gray">#999999</color>
+    <color name="White">#ffffff</color>
+
+</resources>
