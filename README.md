@@ -17,6 +17,14 @@ Step 2. Add the dependency (module build.gradle)
 
 dependencies {
 	        compile 'com.github.suganvictory:TagEditTextView:0.1'
+	}  
+	
+	
+	
+	From Kitkat to Nougat use below dependencies
+	
+		dependencies {
+	        compile 'com.github.suganvictory:TagEditTextView:0.1.1'
 	}
 
 
